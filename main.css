@@ -1,0 +1,19 @@
+.container{
+    border: 1px solid black;
+    margin: auto;
+    height: 50vh;
+    width: 50vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    flex-direction: column;
+}
+#day{
+    display: block;
+    font-size: xx-large;
+}
+
+#dtandtm{
+    text-decoration: underline;
+}
